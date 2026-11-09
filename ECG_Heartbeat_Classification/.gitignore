@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Dataset files are too large for GitHub - download them from Kaggle
+data/*.csv
+*.zip

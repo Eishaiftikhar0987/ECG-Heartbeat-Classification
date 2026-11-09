@@ -1,0 +1,30 @@
+{
+  "train_file_shape": [
+    87554,
+    188
+  ],
+  "test_file_shape": [
+    21892,
+    188
+  ],
+  "label_dtype_in_csv": "float64",
+  "train_rows": 78799,
+  "val_rows": 8755,
+  "test_rows": 21892,
+  "signal_min": 0.0,
+  "signal_max": 1.0,
+  "train_file_counts": [
+    72471,
+    2223,
+    5788,
+    641,
+    6431
+  ],
+  "test_file_counts": [
+    18118,
+    556,
+    1448,
+    162,
+    1608
+  ]
+}

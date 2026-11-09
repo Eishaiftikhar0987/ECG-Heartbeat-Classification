@@ -1,0 +1,8 @@
+{
+  "batch_size": 64,
+  "loss_on_batch": 1.741343379020691,
+  "max_abs_diff_W3": 0.0,
+  "max_abs_diff_b3": 0.0,
+  "tolerance": 1e-05,
+  "passed": true
+}
